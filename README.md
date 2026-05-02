@@ -1,6 +1,6 @@
 # jcode-express
 
-Express.js route and middleware edges for [jcode](https://github.com/codewithjoes-tech/jcode).
+Express.js route and middleware edges for [jcode](https://github.com/codewithjoe-tech/jcode).
 
 ## What it does
 
@@ -37,8 +37,8 @@ Works with any receiver that looks like an Express app or router — `app`, `rou
 
 ## Part of the jcode ecosystem
 
-- [jcode](https://github.com/codewithjoes-tech/jcode) — core CLI and MCP server
-- [jcode-registry](https://github.com/codewithjoes-tech/jcode-registry) — plugin registry
+- [jcode](https://github.com/codewithjoe-tech/jcode) — core CLI and MCP server
+- [jcode-registry](https://github.com/codewithjoe-tech/jcode-registry) — plugin registry
 
 ---
 
