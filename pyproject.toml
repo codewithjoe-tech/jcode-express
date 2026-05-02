@@ -1,0 +1,19 @@
+[project]
+name = "jcode-express"
+version = "0.1.0"
+description = "Express.js route and middleware edges for jcode"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Joel Thomas", email = "joel@codewithjoe.in" }]
+dependencies = ["jcode>=0.1.0"]
+
+[project.urls]
+Repository = "https://github.com/codewithjoe-tech/jcode-express"
+
+[project.entry-points."jcode.plugins"]
+express = "jcode_express.plugin:create"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
