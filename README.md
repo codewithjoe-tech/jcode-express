@@ -43,3 +43,9 @@ Works with any receiver that looks like an Express app or router — `app`, `rou
 ---
 
 Made by [Joel Thomas](https://codewithjoe.in)
+
+---
+
+## License
+
+MIT — free to use, modify, distribute, and build commercial products on top of. See [LICENSE](LICENSE).
